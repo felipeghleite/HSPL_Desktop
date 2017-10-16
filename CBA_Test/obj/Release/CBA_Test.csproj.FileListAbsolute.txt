@@ -1,0 +1,9 @@
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\bin\Release\CBA_Test.exe.config
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\bin\Release\CBA_Test.exe
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\bin\Release\CBA_Test.pdb
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\obj\Release\CBA_Test.csprojResolveAssemblyReference.cache
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\obj\Release\CBA_Test.Form1.resources
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\obj\Release\CBA_Test.Properties.Resources.resources
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\obj\Release\CBA_Test.csproj.GenerateResource.Cache
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\obj\Release\CBA_Test.exe
+D:\Data\visual studio 2015\Projects\CBA_Test\CBA_Test\obj\Release\CBA_Test.pdb
